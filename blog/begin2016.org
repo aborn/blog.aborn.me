@@ -16,7 +16,7 @@
 
 思考思考
 
-#+BEGIN_SRC elisp
+#+BEGIN_SRC emacs-lisp
 ;; 按java的格式编码url
 (defun ab/url-encode-java (url)
   (interactive)
