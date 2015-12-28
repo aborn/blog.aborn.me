@@ -14,7 +14,7 @@
 
 脚步匆匆！
 
-思考思考
+思考思考good
 
 #+BEGIN_SRC emacs-lisp
   ;; 按java的格式编码url
